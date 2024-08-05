@@ -10,7 +10,7 @@ def mult(a, b):
     return a * b
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     result1 = add(4, 5)
     result2 = sub(4, 1)
     print(result1, result2)
