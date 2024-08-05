@@ -6,7 +6,7 @@ def sub(a, b):
     return a - b
 
 
-def mult(a, b):
+def mul(a, b):
     return a * b
 
 
